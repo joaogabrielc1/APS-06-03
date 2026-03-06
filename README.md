@@ -1,4 +1,4 @@
-# Projeto: Currículo Profissional
+# Projeto: Currículo
 Este repositório contém o código fonte de um currículo estruturado em HTML5. O projeto foi desenvolvido como parte de uma atividade acadêmica para exercitar a organização de informações e a utilização de tags semânticas.
 
 **Estrutura do Projeto**
